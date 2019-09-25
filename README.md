@@ -1,2 +1,2 @@
-# DataScience_Capstone_Project
+# DataScience_Machine_Learning_With_Python_Capstone_Project
 Repository for Capstone project for Mahcine Learning with Python Course
